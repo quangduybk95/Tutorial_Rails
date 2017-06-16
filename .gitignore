@@ -20,3 +20,10 @@
 # Ignore Byebug command history file.
 .byebug_history
 .idea/*
+test/*
+.framgia-ci.yml
+.framgia-ci-result.temp.yml
+.framgia-ci-reports/*
+
+.DS_Store
+.framgia-ci-reports/
